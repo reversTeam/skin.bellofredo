@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.bellofredo" version="4.6.2" name="Bello Fredo" provider-name="sualfred">
   <requires>
-		<import addon="xbmc.gui" version="5.9.0" />
+		<import addon="xbmc.gui" version="5.10.0" />
 		<import addon="service.skin.widgets" version="0.0.29"/>
 		<import addon="service.library.data.provider" version="0.0.1" />
 		<import addon="script.artwork.downloader" version="12.0.24" />
